@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="113">
+    <author>Willi Willswissen</author>
+	<contributors>AutoDrive Team</contributors>
+    <version>1.0.0.0</version>
+    <title> 
+        <en>AutoDrive Passing Place</en>
+        <de>AutoDrive Ausweichbucht</de>
+    </title>
+    <description>
+        <en> <![CDATA[
+
+AD Layout for Straight Forward.
+]]>
+        </en>
+        <de> <![CDATA[
+
+AD Layout für Linie Vorwärts.
+]]>
+        </de>
+    </description>
+    
+    <l10n>
+        <text name="storeItem_passing"> <en>AutoDrive passing Place</en> <de>AutoDrive Ausweichbucht</de> </text>
+    </l10n>
+
+    <multiplayer supported="true"/>
+    <iconFilename>icon_AutoDrive_passing.png</iconFilename>
+
+    <storeItems>
+		<storeItem xmlFilename="passing.xml"/>
+    </storeItems>
+</modDesc>
